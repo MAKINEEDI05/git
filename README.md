@@ -1,4 +1,4 @@
-# 📘 **Git Bash Practice**
+# 📘**Git Bash Practice**
 
 This repository captures all Git and Git Bash commands practiced while building foundational skills in version control, branching strategies, merging workflows, stashing, resets, remote operations, and file handling.
 
